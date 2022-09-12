@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6ZFATRkj/H43ulgyNL7lCX7ap7bXOH5MVVLI80znGXv6V6PkEm8zC7Bx6v+hQSWER/kRG4nnMIG2FpxLl48nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\LoginPage\\LoginPage\\LoginPage.iOS\\LoginPage.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
